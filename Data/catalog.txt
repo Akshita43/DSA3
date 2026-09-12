@@ -1,0 +1,436 @@
+# SmartCart Catalog File
+# One product description per line. Lines starting with # are ignored.
+seiko washingmachine childproof gold
+vivo decoder tearresistant leather
+steelseries lamp foldable zinc
+haier earbuds durable fiberglass
+noise keyboard noisecancelling metal
+karbonn webcam foldable glass
+godrej cctv recyclable rose
+letv lamp childproof gold
+godrej headphones flameretardant carbon
+casio cabinet smart glass
+letv dock flameretardant glossy
+acer lamp odorresistant transparent
+coolermaster router shatterproof gray
+poco mouse biodegradable yellow
+nothing waterheater tearresistant acrylic
+seagate stand retina marble
+steelseries adapter touchscreen glossy
+hasselblad equalizer touchscreen plastic
+letv adapter antibacterialtreated brass
+viewsonic screenguard new stoneware
+garmin chandelier rechargeable glass
+zte cabinet automatic platinum
+bose microscope breathable suedematerial
+oneplus inductioncooktop rechargeable cream
+corsair chimney expandable brass
+meizu soundbar amoled gray
+asrock scanner highresolution terracotta
+hasselblad inductioncooktop adjustable rose
+bang dishwasher flatscreen stoneware
+garmin calculator antibacterial stainlesssteel
+sony smartband detachable bronze
+sharp camera quickdry rose
+haier amplifier fullhd titanium
+anker vacuum childproof nylonmesh
+sapphire straightener lightweight bronze
+croma motherboard shatterproof turquoise
+benq television dualsim turquoise
+yamaha cabinet detachable rubber
+voltas washingmachine lightweight matte
+bose kettle artisanal pink
+samsung hairdryer leakproof glossy
+nikon chargingcable wireless wood
+noise nebulizer stackable cream
+lenovo chimney antiwrinkle gold
+redmi dashcam affordable nylonmesh
+portronics motherboard childproof fabric
+tecno alarm voicecontrolled rose
+toshiba keyboard slim porcelain
+sennheiser camera multipurpose gold
+acer smartphone stainresistant steel
+micromax router reversible red
+vivo videodoorbell slim rubber
+bose alarm backlit stainlesssteel
+hisense harddisk eco glass
+dell smartplug breathable granite
+tecno shaver flatscreen plastic
+jbl modem vintage platinum
+anker purifier hypoallergenic copper
+blackberry tablet slim cobalt
+steelseries refrigerator original red
+hp inc oximeter curved metal
+hasselblad smartplug mechanical tungsten
+steelseries actioncamera automatic cast iron
+western digital toaster tearresistant zinc
+logitech alarm fastcharging transparent
+adata iron voicecontrolled pink
+hitachi bloodpressuremonitor quickdry cast iron
+bang smartwatch waterproof turquoise
+infinix purifier rugged stainlesssteel
+croma subwoofer trending stainlesssteel
+steelseries printer fastcharging fabric
+voltas trimmer sleek platinum
+whirlpool shaver biodegradable black
+tecno actioncamera handmade stainlesssteel
+transcend sensor lightweight glass
+intex turntable bestseller chrome
+tecno babymonitor manual fiberglass
+sandisk alarm heavyduty metal
+transcend typewriter childproof granite
+ambrane walkietalkie lightweight copper
+skullcandy projector waterproof steel
+oppoenco dashcam retina wood
+sharp decoder airtight terracotta
+polaroid microscope expandable steel
+karbonn battery budget blue
+samsung soundbar trending fabric
+alcatel walkietalkie premium fiberglass
+sapphire heater ultra red
+canon grinder fourk zinc
+bluestar antenna leakproof tan
+nikon inverter solarpowered titanium
+realme actioncamera classic cast iron
+aoc console artisanal tungsten
+noise decoder stretchable titanium
+micromax washingmachine antibacterialtreated nickel
+sony videodoorbell fingerprint glossy
+hisense smartphone affordable steel
+philips refrigerator eco glass
+itel mouse silent tungsten
+alcatel stabilizer hypoallergenic fabric
+benq stabilizer foldable beige
+toshiba dehumidifier shockproof leather
+huawei joystick flameretardant red
+hp inc weatherstation adjustable porcelain
+seiko doorbell stretchable nickel
+hitachi chimney hdready stoneware
+zte nebulizer industrialgrade clay
+huawei vacuum authentic tungsten
+viewsonic securitycamera mechanical chrome
+asrock joystick premium suedematerial
+hp processor fingerprint cream
+vivo inductioncooktop noisecancelling acrylic
+vivo grinder limitededition charcoal
+kingston drone affordable steel
+harman sensor artisanal bamboo
+jbl cleaner premium granite
+godrej walkietalkie compact nylonmesh
+benq hairdryer analog purple
+sennheiser sewingmachine dualsim nickel
+ambrane screenguard solarpowered chrome
+hyperx stand durable bamboo
+sony screenguard shatterproof marble
+ptron sewingmachine bluetooth silicone
+logitech bloodpressuremonitor biodegradable olive
+zte keyboard gaming pink
+viewsonic modem lightweight navy
+gopro headphones affordable glossy
+gopro satellite budget acrylic
+evga actioncamera imported navy
+ambrane washingmachine tearresistant nickel
+letv straightener authentic tan
+motorola dehumidifier foldable glossy
+fireboltt weatherstation rechargeable teal
+sony alarm durable navy
+nokia chandelier fastcharging gray
+nikon smartlock professional marble
+samsung screenguard shatterproof suedematerial
+gopro lock budget silver
+alcatel sewingmachine noisecancelling ceramic
+sennheiser purifier portable glossy
+pepejeans stockings brown flatscreen
+killer trenchcoat lace fourk
+clarks sneakers lavender manual
+wforwoman hat denimfabric bluetooth
+fabindia shorts polyester bluetooth
+fabindia2 sneakers copper rugged
+spykar anklet tencel facelock
+prada swimtrunk acrylic handmade
+redtape swimtrunk fabric scratchresistant
+hrx sneakers fauxleather original
+allensolly jumpsuit gauze sleek
+bewakoof parka beige premium
+netplay hat nylon budget
+adidas blazer brown classic
+fabindia watch lycra foldable
+calvinklein beachwear stoneware washable
+lotto beachwear polyesterblend airtight
+raymond compressiontights cottonblend shockproof
+crocs coat lycra highresolution
+clarks tshirt hemp reversible
+dollar flipflops shearling touchscreen
+levis stockings brocade detachable
+underarmour tshirt flannel washable
+calvinklein anklet acrylicfabric stretchable
+vero moda raincoat tencel stretchable
+dennislingo tshirt satin mechanical
+ralphlauren gown white leakproof
+zara backpack silk curved
+jockey culottes taffeta lightweight
+pantaloons heels granite modern
+skechers swimtrunk zinc bestseller
+invictus poncho2 damask minimalist
+lux windcheater fabric digital
+aurelia windcheater pink natural
+fila jacket fiberglass bestseller
+spykar culottes green new
+styli sneakers suede antibacterialtreated
+damensch sneakers matte highperformance
+puma yogapants transparent highperformance
+huelamo yogapants charcoal natural
+peterengland suit wool shockproof
+lacoste dungarees seersucker ergonomic
+tommyjeans necklace bronze portable
+forever21 jeans brown tearresistant
+libas pajama leather mechanical
+nike earrings denimfabric adjustable
+urbanladder sneakers zinc tearresistant
+ralphlauren swimtrunk carbon adjustable
+urbanladder bomberjacket plastic backlit
+tommyhilfiger bra modal new
+damensch cardigan taffeta classic
+vero moda earrings fabric washable
+tommyhilfiger bangles tungsten exportquality
+aurelia peacoat linen reusable
+forever21 onepiece net rechargeable
+max gown flannel backlit
+vero moda denimjacket charcoal curved
+centralmall casual suede wired
+mizuno sweater leather highresolution
+w brand saree charcoal ultra
+sportsdrink natural snack
+chutney homemade staple
+coriander pure grocery
+soyabean premium staple
+salt natural staple
+namkeen pure staple
+pineapple imported grocery
+potato premium vegetable
+mustard pure snack
+semolina organic snack
+turmeric packaged grocery
+sparklingwater homemade spice
+ghee organic fruit
+sportsdrink homemade spice
+eggs organic spice
+brownrice imported beverage
+coriander packaged fruit
+pistachio packaged spice
+coriander healthy fruit
+mutton natural beverage
+chocolate imported spice
+namkeen packaged spice
+pomegranate fresh snack
+spices fresh snack
+coffee healthy snack
+bakingchocolate pure beverage
+muesli packaged spice
+butter imported grocery
+pickle fresh spice
+readytoeat roasted dairy
+chicken homemade fruit
+cardamom organic staple
+greentea packaged snack
+prawns natural snack
+energybar healthy snack
+cordial pure spice
+coriander organic dairy
+namkeen healthy staple
+garlic homemade beverage
+readytoeat imported dairy
+dal healthy vegetable
+pasta packaged vegetable
+almond healthy beverage
+grapes roasted grocery
+oil imported spice
+hanger cobalt slim
+tiffin teal multipurpose
+blanket brass hdready
+keyholder bamboo budget
+loungechair cobalt recyclable
+bunkbed metal highresolution
+bench silicone voicecontrolled
+cdrack fiberglass flatscreen
+table titanium dustproof
+sidetable terracotta leakproof
+daybed black rechargeable
+dustbin cobalt retina
+cdrack beige valueformoney
+cupboard purple digital
+vase tungsten exportquality
+cupboard marble lightweight
+wallshelf silver wireless
+drawer pink stainresistant
+mattress charcoal budget
+ottoman cobalt organic
+consoletable ceramic compact
+curtain charcoal antibacterialtreated
+umbrellastand transparent antibacterial
+wallpaper purple topselling
+magazinerack black wired
+foldingchair charcoal amoled
+doormat cream natural
+bench terracotta antibacterialtreated
+stool beige waterproof
+hanger ivory foldable
+table transparent quickdry
+ironboard plastic backlit
+rockingchair acrylic stackable
+rockingchair brass dustproof
+jug suedematerial reversible
+measuringspoon chrome wireless
+storagecontainer zinc adjustable
+flask brass sleek
+pressurecooker transparent longbattery
+knifeblock purple mechanical
+storagecontainer fabric biodegradable
+servingtray glossy fastcharging
+servingbowl suedematerial limitededition
+whisk wood childproof
+tongs orange waterproof
+choppermachine suedematerial portable
+whisk glossy childproof
+cuttingmat cream new
+popcornmaker plastic automatic
+griddle transparent cordless
+teaset granite dustproof
+pressurecooker rubber stackable
+griddle porcelain automatic
+sandwichmaker black lightweight
+spicebox plastic expandable
+vacuumsealer glass flameretardant
+flask rubber detachable
+pressurecooker fiberglass durable
+tongs terracotta sleek
+pizzastone stoneware rugged
+woks bamboo classic
+choppingset red recyclable
+foodstorage beige industrialgrade
+kitchenscale silver washable
+ladle granite adjustable
+cricketball backlit rugged
+hockeystick vacuumsealed multipurpose
+ellipticaltrainer highresolution heavyduty
+shuttlecock mechanical vintage
+boxinggloves hdready curved
+cricketbat trending modern
+trekkingbag industrialgrade organic
+hockeystick waterproof longbattery
+barbell eco bestseller
+chessboard affordable antibacterial
+fishingrod dualsim quickdry
+skippingrope quickdry cordless
+football highperformance classic
+kettlebell original luxury
+elbowguard vacuumsealed noisecancelling
+gymgloves energyefficient amoled
+ellipticaltrainer valueformoney valueformoney
+trekkingbag lightweight antiwrinkle
+kayak childproof modern
+swimsuit touchscreen appcontrolled
+hockeystick handmade dustproof
+dartboard shatterproof scratchresistant
+gymgloves analog usbc
+barbell rechargeable mechanical
+cycle slim compact
+comic durable
+stampinkpad durable
+watercolor budget
+highlighter durable
+clipboard colorful
+oilpaint compact
+stapler compact
+gelpen compact
+greetingcard premium
+calendar smooth
+filepad smooth
+fountainpen smooth
+magazine smooth
+giftwrap smooth
+paintbrush durable
+hairgel gentle
+remover premium
+epilator gentle
+mouthwash herbal
+bodyspray premium
+hairgel longlasting
+hairserum gentle
+handcream matte
+mascara waterproof
+facecream herbal
+eyeliner herbal
+nightcream matte
+sheetmask matte
+primer premium
+lotion premium
+sheetmask herbal
+moisturizer gentle
+threadingtool matte
+carcharger stackable
+cartoolkit manual
+carhorn vacuumsealed
+carspeaker affordable
+carspoiler limitededition
+carcover ergonomic
+carsteeringlock airtight
+carkeycover biodegradable
+airfilter ultra
+steeringcover stackable
+sparkplug smart
+steeringcover slim
+carspeaker dustproof
+cartowinghook new
+carfoglamp slim
+plant silent
+coolbox imported
+bbqgrill cordless
+gardenstatue flatscreen
+gardenhose slim
+fertilizer topselling
+weedcutter shatterproof
+pruningshear adjustable
+coolbox compact
+campingchair artisanal
+greenhousekit digital
+gardenfountain tearresistant
+petbowl handmade
+aquarium childproof
+cattoy appcontrolled
+birdfood limitededition
+fishfood solarpowered
+petcollar flatscreen
+aquariumlight detachable
+petvitamins solarpowered
+catfood luxury
+cattree natural
+littertray childproof
+petfeeder slim
+guitar compact
+sitar compact
+ukulele professional
+clarinet premium
+trombone compact
+sitar wooden
+guitar professional
+basssguitar wooden
+studiomonitor compact
+flute premium
+midicontroller portable
+banjo wooden
+wallsticker handmade
+curtainrod elegant
+potpourri elegant
+incense decorative
+photoframeset premium
+urn handmade
+fairylights decorative
+terrariumkit handmade
+candleholder minimalist
+photoframeset decorative
+romanblinds elegant
+wallart minimalist
+mirrorframe minimalist
+urn premium
+showcase2 minimalist
