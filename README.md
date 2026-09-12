@@ -76,5 +76,4 @@ SmartCart/
 │   ├── Cart.java
 │   └── SearchHistory.java
 │
-├── gen_data.py
 └── README.md
