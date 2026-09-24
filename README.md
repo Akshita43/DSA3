@@ -49,21 +49,3 @@ Keep products.csv and dictionary.txt in the same folder.
 | CO3 | Edit distance DP: Wagner-Fischer and Damerau-Levenshtein | 1, 14 |
 | CO4 | Edmonds-Karp max-flow for warehouse fulfillment | 11 |
 
-## Project Files
-
-Main.java – menu and program flow
-Trie.java, TrieNode.java – Trie
-AhoCorasick.java – many-keyword search
-KMP.java – exact phrase search
-RabinKarp.java – keyword search
-FuzzySearchEngine.java – Trie + Wagner-Fischer
-DamerauLevenshtein.java – Damerau-Levenshtein
-PriceSearch.java – binary search
-TopNFinder.java – heap
-MaxFlowEdmondsKarp.java, WarehouseAllocation.java – max-flow
-ProductCatalog.java, Product.java, WordIndex.java – data
-ShoppingCart.java, SearchHistory.java – cart and trending
-Suggestion.java – spell suggestion result
-products.csv – 2,175 products, 15 categories
-dictionary.txt – 1,728 words
-build_dictionary.py – builds dictionary.txt
